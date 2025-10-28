@@ -1,0 +1,4 @@
+edu\ismagi\hadoop\WriteHDFS.class
+edu\ismagi\hadoop\Main.class
+edu\ismagi\hadoop\ReadHDFS.class
+edu\ismagi\hadoop\HadoopFileStatus.class
